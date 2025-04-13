@@ -1,2 +1,2 @@
-# JacobGitz.github.io
+#Jacob's Profolio
 a website about me
