@@ -1,4 +1,7 @@
 theme: jekyll-theme-minimal
 title: Jacob's Portfolio
+show_downloads:true
+logo:/assets/image/headshot_circle.png
 description: Just a website about me! 
+
 
