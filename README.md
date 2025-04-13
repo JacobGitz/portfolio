@@ -10,16 +10,26 @@
 
 ## Work Experience
 **Physics Researcher, DuttLab (_2023 - Present_)**
-- Created a new project management framework for the laboratory to revolutionize data storage and laboratory documentation
-- Designed a neural sensing experiment using magnetometry in nitrogen vacancy centers in diamond
-- Created and implemented code interfaces to automate laboratory experiments and developed controllers for complex laboratory instruments.
-- Performed general laboratory management tasks to ensure efficiency and smooth operation in a dynamic research environment.
+- Deployed and maintained a self-hosted instance of **OpenProject** for the laboratory, creating a centralized platform for documentation, onboarding, and project management.
+- Designed a neural sensing experiment using **magnetometry in nitrogen-vacancy (NV) centers in diamond** to image **neuromuscular junctions (NMJs)** in motor neurons, supporting research into **Parkinsonism**, **muscular dystrophy**, and related neurodegenerative diseases.
+- Created and implemented **Python** interfaces to automate laboratory experiments and developed controllers for laboratory instruments.
 - Updated all computers in the laboratory to modern hardware
+- Managed day-to-day lab operations and coordinated team  workflows
 
 **Developer, Levylab (_2022 - 2023_)**
-- Collaborated in the design and development of a microsoldering station optimized for preparing experimental samples.
-- Developed live data interfaces using a Postgres database integrated with a Grafana frontend, enabling continuous monitoring and streamlined data visualization across laboratory experiments.
--  
+- Collaborated in the design and development of a **microsoldering station** optimized for preparing experimental samples.
+- Built real-time data interfaces using a **PostgreSQL** backend on **AWS** and **Grafana** front-end, enabling continuous experiment monitoring and visual feedback via a display wall 
+
+**Salesman, Staples (_2022 - 2022_)**
+- Provided customer-facing sales support with a focus on printers and office electronics, ensuring a positive and helpful in-store experience.
+- Excelled in building rapport with customers, contributing to recurring visits, upsells, and increased sign-ups for service subscriptions and rewards programs
+- Recognized for delivering consistent customer satisfaction and actively contributing to team sales goals during a short-term but high-impact role.
+
+**Lab Technician, Westmoreland Mechanical Testing and Research (_2020 - 2022_)**
+- Worked in a materials analysis laboratory specializing in **electron microscopy** and **surface characterization** of **specialty metals** 
+- Routinely prepared samples for analysis and performed standardized testing on material properties
+- Supported testing for a global client base including **defense**, **aerospace**, and **automotive** manufacturers, contributing to quality control and certification processes.
+ 
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
