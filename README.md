@@ -67,4 +67,4 @@ Worked with the same engineering analysis team to identify needs and preferences
 - Conducted interviews to gather user input on desirable features such as compartments and materials.
 - Designed digital and foam board prototypes of a backpack based on feedback
 - Presented findings and prototypes to peers for further refinement and validation
-  ![CAD Image Backpack](/assets/images/1000008045.jpg)
+  ![CAD Image Backpack](/assets/images/1000008045.jpg) ![Backpack Image 2](assets/images/1000008053.heic)
