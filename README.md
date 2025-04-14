@@ -59,6 +59,7 @@ Collaborated with a team of three engineering students to promote environmental 
 - Designed and built a series of three **low-fidelity prototypes** utilizing foam board and digital methods to present to students
 - Conducted user interviews and feedback sessions to **evaluate design effectiveness** and gather suggestions for improvement
 - Delivered multiple **presentations** to students and faculty, focusing on **design** and **creation of value**
+
 #### Making a Prototype Backpack
 Worked with the same engineering analysis team to identify needs and preferences for student backpacks on campus
 - Conducted interviews to gather user input on desirable features such as compartments and materials.
