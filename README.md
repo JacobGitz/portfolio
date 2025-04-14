@@ -13,7 +13,7 @@
 - BSE, Engineering Physics| University of Pittsburgh (_2027_)	 			        		
 
 ## Work Experience
-**Physics Researcher # DuttLab (_2023 - Present_)**
+**Physics Researcher @ DuttLab (_2023 - Present_)**
 - Deployed and maintained a self-hosted instance of **OpenProject** for the laboratory, creating a centralized platform for documentation, onboarding, and project management.
 - Designed a neural sensing experiment using **magnetometry in nitrogen-vacancy (NV) centers in diamond** to image **neuromuscular junctions (NMJs)** in motor neurons, supporting research into **Parkinsonism**, **muscular dystrophy**, and related neurodegenerative diseases.
 - Created and implemented **Python** interfaces to automate laboratory experiments and developed controllers for laboratory instruments.
@@ -53,9 +53,15 @@
 - Saved earnings from this job to fund and file for an LLC, marking **the start of my early entrepreneurial path**
 
 ## College Projects
-### Engineering Analysis, Prototyping and Creating Enviornmental Awareness
+### Engineering Analysis
+#### Prototyping and Creating Enviornmental Awareness
 Collaborated with a team of three engineering students to promote environmental awareness and renewable energy on campus.
 - Designed and built a series of three **low-fidelity prototypes** utilizing foam board and digital methods to present to students
 - Conducted user interviews and feedback sessions to **evaluate design effectiveness** and gather suggestions for improvement
 - Delivered multiple **presentations** to students and faculty, focusing on **design** and **creation of value**
-
+#### Making a Prototype Backpack
+Worked with the same engineering analysis team to identify needs and preferences for student backpacks on campus
+- Conducted interviews to gather user input on desirable features such as compartments and materials.
+- Designed digital and foam board prototypes of a backpack based on feedback
+- Presented findings and prototypes to peers for further refinement and validation
+(/assets/img/bike_study.jpeg)
