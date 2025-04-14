@@ -35,7 +35,7 @@
 - Worked in a materials analysis laboratory specializing in **electron microscopy** and **surface characterization** of **specialty metals** 
 - Routinely prepared samples for analysis and performed standardized testing on material properties
 - Supported testing for a global client base including **defense**, **aerospace**, and **automotive** manufacturers
-
+![WMTR](/assets/images/wmtr.jpg)
 **Stage Manager @ Apple Hill Playhouse (_2018-2019_)**
 - Coordinated **all aspects of stage production** for **three full theatrical shows** during the entire summer season, collaborating closely with directors, actors, and fellow stage managers.
 - Led and coordinated **teams of over 20 people** 
