@@ -45,6 +45,9 @@
 - Played a hands-on role in building large stage structures and sets under the mentorship of a veteran theatrical director with decades of national experience.
 - Gained invaluable team-building experience and developed strong communication, creative problem-solving, and organizational skills - while making unforgettable memories
 
+![Apple Hill Playhouse](/assets/images/apple_hill.jpg)
+![Apple Hill Playhouse 2](/assets/images/apple_hill2.jpg)
+
 **Co-Founder/Vice President @ NewArk Industries LLC. (_2016-2018_)**
 - Co-founded a startup at age 15 with a team of five developers, focusing on web-based platforms including **encrypted messaging systems**, **tech forums**, and **social media applications**.
 - Developed full-stack web applications using **MySQL**, **Apache NetServer**, **PHP/SQL**, **JavaScript**, and **HTML/CSS**, gaining hands-on experience in both frontend and backend systems.
