@@ -1,8 +1,12 @@
 # Physics Researcher
 
-#### Laboratory Skills: Optics, Electronics
+#### Laboratory Skills: Optics, Electronics, Microscopy, Basic Chemistry
 
-#### Technical Skills: Python, SQL, Java, PHP, Javascript, HTML/CSS, Linux, etc.
+#### Computer Skills: Python, SQL, Java, PHP, Javascript, HTML/CSS, Linux, Cybersecurity...
+
+#### Related Technical Skills/Hobbies: 3D Printing & Custom 3D Printer Design, Game Development in Unity, Artificial Intelligence / Machine Learning using TensorFlow...
+
+#### Other Skills: Startup Development & Company Formation, Financial Literacy & Business Strategy, General Knowledge of Law / Contracts / Team Management
 
 ## Education
 - B.S, Physics | University of Pittsburgh (_2027_)								       		
@@ -14,21 +18,28 @@
 - Designed a neural sensing experiment using **magnetometry in nitrogen-vacancy (NV) centers in diamond** to image **neuromuscular junctions (NMJs)** in motor neurons, supporting research into **Parkinsonism**, **muscular dystrophy**, and related neurodegenerative diseases.
 - Created and implemented **Python** interfaces to automate laboratory experiments and developed controllers for laboratory instruments.
 - Updated all computers in the laboratory to modern hardware
-- Managed day-to-day lab operations and coordinated team  workflows
+- Managed day-to-day lab operations and coordinated team workflows
 
 **Developer, Levylab (_2022 - 2023_)**
 - Collaborated in the design and development of a **microsoldering station** optimized for preparing experimental samples.
 - Built real-time data interfaces using a **PostgreSQL** backend on **AWS** and **Grafana** front-end, enabling continuous experiment monitoring and visual feedback via a display wall 
 
 **Salesman, Staples (_2022 - 2022_)**
-- Provided customer-facing sales support with a focus on printers and office electronics, ensuring a positive and helpful in-store experience.
+- Provided customer-facing **sales support** with a focus on printers and office electronics, ensuring a positive and helpful in-store experience.
 - Excelled in building rapport with customers, contributing to recurring visits, upsells, and increased sign-ups for service subscriptions and rewards programs
-- Recognized for delivering consistent customer satisfaction and actively contributing to team sales goals during a short-term but high-impact role.
+- Recognized for delivering consistent **customer satisfaction** and actively contributing to team sales goals during a short-term but high-impact role.
 
 **Lab Technician, Westmoreland Mechanical Testing and Research (_2020 - 2022_)**
 - Worked in a materials analysis laboratory specializing in **electron microscopy** and **surface characterization** of **specialty metals** 
 - Routinely prepared samples for analysis and performed standardized testing on material properties
-- Supported testing for a global client base including **defense**, **aerospace**, and **automotive** manufacturers, contributing to quality control and certification processes.
+- Supported testing for a global client base including **defense**, **aerospace**, and **automotive** manufacturers
+
+**Stage Manager, Apple Hill Playhouse (_2018-2019_)**
+- Coordinated **all aspects of stage production** for **three full theatrical shows** during the entire summer season, collaborating closely with directors, actors, and fellow stage managers.
+- Led and coordinated **teams of over 20 people** 
+- Contributed to **set design**, **lighting** and **sound construction**, **prop creation**, **auditions**, and **blocking**, ensuring smooth rehearsals and live performances.
+- Played a hands-on role in building large stage structures and sets under the mentorship of a veteran theatrical director with decades of national experience.
+- Gained invaluable team-building experience and developed strong communication, creative problem-solving, and organizational skills - while making unforgettable memories
  
 
 ## Projects
