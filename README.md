@@ -19,6 +19,8 @@
 - Created and implemented **Python** interfaces to automate laboratory experiments and developed controllers for laboratory instruments.
 - Updated all computers in the laboratory to modern hardware
 - Managed day-to-day lab operations and coordinated team workflows
+ ![Cryostat](/assets/images/cryostat.jpg)
+
 
 **Developer @ Levylab (_2022 - 2023_)**
 - Collaborated in the design and development of a **microsoldering station** optimized for preparing experimental samples.
