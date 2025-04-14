@@ -25,6 +25,7 @@
 **Developer @ Levylab (_2022 - 2023_)**
 - Collaborated in the design and development of a **microsoldering station** optimized for preparing experimental samples.
 - Built real-time data interfaces using a **PostgreSQL** backend on **AWS** and **Grafana** front-end, enabling continuous experiment monitoring and visual feedback via a display wall 
+![OXIDE-HETEROSTRUCTURE AFM](/assets/images/c-AFM.png)
 
 **Salesman @ Staples (_2022 - 2022_)**
 - Provided customer-facing **sales support** with a focus on printers and office electronics, ensuring a positive and helpful in-store experience.
