@@ -58,6 +58,7 @@
 - Responsible for daily prep including **cheese grating**, **sauce-making**, **box folding**, and crafting **pizza dough from scratch**
 - Handled customer orders, maintained kitchen cleanliness, and prepared food
 - Saved earnings from this job to fund and file for an LLC, marking **the start of my early entrepreneurial path**
+![WMTR](/assets/images/pizza_siena.jpg)
 
 ## College Projects
 ### Engineering Analysis
